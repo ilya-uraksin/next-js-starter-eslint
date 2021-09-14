@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-page-custom-font */
 import { AppProps } from 'next/dist/shared/lib/router/router';
 import Head from 'next/head';
 import React from 'react';
